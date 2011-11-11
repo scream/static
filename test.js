@@ -4,7 +4,3 @@ paging_arrow_bg.png
 etBookbyteacher.js
 etTeacherScheduleSingleSubout.js
 bookbyteacherpopup.css
-bookbyteacher-popup.cshtml
-teacher-subout-popup.cshtml
-menu
-test
