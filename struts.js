@@ -1,1 +1,1 @@
-struts.js
+asdfasdfasdfstruts.js
